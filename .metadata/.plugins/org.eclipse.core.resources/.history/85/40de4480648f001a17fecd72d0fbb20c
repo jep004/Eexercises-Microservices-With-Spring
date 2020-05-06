@@ -1,5 +1,0 @@
-package demo.repository;
-
-public interface TeamRepository extends CrudRepository<Team,Long>{
-
-}
