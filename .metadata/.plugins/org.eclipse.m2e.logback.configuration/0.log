@@ -11235,3 +11235,4 @@ Caused by: java.lang.Exception: Resource '/lab-7-sentence-server/pom.xml' does n
 2020-05-06 11:42:08,717 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2020-05-06 11:42:08,718 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2020-05-06 11:42:08,719 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-06 11:42:08,720 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Jep\Cursos\sts-4.6.1.RELEASE\workspace\lab-3-server\src\test\resources
